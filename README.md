@@ -1,5 +1,5 @@
 # SchoolDocPro
-**SchoolDocPro**  is a system aimed at facilitating the process of managing, organizing and keeping documents, documents and administrative files within the institution
+*SchoolDocPro*  is a system aimed at facilitating the process of managing, organizing and keeping documents, documents and administrative files within the institution.
 
 Submitted by: **Haithem Nini**
 
