@@ -9,7 +9,7 @@ Time spent: **06** Months spent in total
 
 Here's a ScreenShot Walkthrough of implemented user stories:
 
-<img src='#' title='ScreenShot Walkthrough' width='' alt='ScreenShot Walkthrough' />
+<img src='https://github.com/haithemnini/SchoolDocPro/blob/main/VIEWS/img/SchoolDocPro.png' title='ScreenShot Walkthrough' width='' alt='ScreenShot Walkthrough' />
 
 
 ## Notes
